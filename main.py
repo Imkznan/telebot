@@ -1,6 +1,6 @@
 from telethon import TelegramClient,events
 import logging
-import socks
+
 
 api_id=21390381
 hash_id='a2fa709dd3771196455e5d360a944852'
